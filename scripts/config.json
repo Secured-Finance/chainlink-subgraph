@@ -1,47 +1,47 @@
 [
   {
     "pair": "BTC/ETH",
-    "address": "0xdeb288F737066589598e9214E782fa5A8eD689e8",
+    "address": "0x81076d6Ff2620Ea9Dd7bA9c1015f0d09A3A732E6",
     "block": 10606425
   },
   {
     "pair": "BTC/USD",
-    "address": "0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c",
+    "address": "0x7104Ac4abCecF1680F933b04c214B0C491D43ecC",
     "block": 10606501
   },
   {
     "pair": "ETH/USD",
-    "address": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
+    "address": "0xd3fCD40153E56110e6EEae13E12530e26C9Cb4fd",
     "block": 10606501
   },
   {
     "pair": "FIL/ETH",
-    "address": "0x0606Be69451B1C9861Ac6b3626b99093b713E801",
+    "address": "0x9965AD91B4877d29c246445011Ce370b3890C5C2",
     "block": 11966190
   },
   {
     "pair": "FIL/USD",
-    "address": "0x1A31D42149e82Eb99777f903C08A2E41A00085d3",
+    "address": "0xB4dd24B6B98EA9C18E2196e166f17B15f77b0a07",
     "block": 11317228
   },
   {
     "pair": "USDC/ETH",
-    "address": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
+    "address": "0xe5BbBdb2Bb953371841318E1Edfbf727447CeF2E",
     "block": 10606503
   },
   {
     "pair": "USDC/USD",
-    "address": "0x8fFfFfd4AfB6115b954Bd326cbe7B4BA576818f6",
+    "address": "0x789190466E21a8b78b8027866CBBDc151542A26C",
     "block": 11869355
   },
   {
     "pair": "USDT/ETH",
-    "address": "0xEe9F2375b4bdF6387aa8265dD4FB8F16512A1d46",
+    "address": "0x7De0d6fce0C128395C488cb4Df667cdbfb35d7DE",
     "block": 10606502
   },
   {
     "pair": "USDT/USD",
-    "address": "0x3E7d1eAB13ad0104d2750B8863b489D65364e32D",
+    "address": "0xa964273552C1dBa201f5f000215F5BD5576e8f93",
     "block": 11870289
   }
 ]
